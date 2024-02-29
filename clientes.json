@@ -1,0 +1,219 @@
+{
+    "clientes": [
+      {
+        "nombre": "Juan",
+        "apellidos": "Pérez López",
+        "telefono": "123456789",
+        "direccion": {
+          "calle": "Calle Principal 123",
+          "ciudad": "Ciudad Principal",
+          "codigo_postal": "12345",
+          "provincia": "Provincia Principal"
+        },
+        "correo_electronico": "juanperez@example.com",
+        "fecha_inclusion": "2020-01-05"
+      },
+      {
+        "nombre": "María",
+        "apellidos": "García Martínez",
+        "telefono": "987654321",
+        "direccion": {
+          "calle": "Avenida Secundaria 456",
+          "ciudad": "Ciudad Secundaria",
+          "codigo_postal": "54321",
+          "provincia": "Provincia Secundaria"
+        },
+        "correo_electronico": "mariagarcia@example.com",
+        "fecha_inclusion": "2020-01-10"
+      },
+      {
+        "nombre": "Carlos",
+        "apellidos": "Sánchez González",
+        "telefono": "555123789",
+        "direccion": {
+          "calle": "Calle Transversal 789",
+          "ciudad": "Ciudad Transversal",
+          "codigo_postal": "67890",
+          "provincia": "Provincia Transversal"
+        },
+        "correo_electronico": "carlossanchez@example.com",
+        "fecha_inclusion": "2020-04-01"
+      },
+      {
+        "nombre": "Ana",
+        "apellidos": "Martínez Rodríguez",
+        "telefono": "777888999",
+        "direccion": {
+          "calle": "Calle Central 567",
+          "ciudad": "Ciudad Central",
+          "codigo_postal": "45678",
+          "provincia": "Provincia Central"
+        },
+        "correo_electronico": "anamartinez@example.com",
+        "fecha_inclusion": "2020-04-15"
+      },
+      {
+        "nombre": "Laura",
+        "apellidos": "Díaz Fernández",
+        "telefono": "333555777",
+        "direccion": {
+          "calle": "Calle Posterior 345",
+          "ciudad": "Ciudad Posterior",
+          "codigo_postal": "56789",
+          "provincia": "Provincia Posterior"
+        },
+        "correo_electronico": "lauradiaz@example.com",
+        "fecha_inclusion": "2020-07-01"
+      },
+      {
+        "nombre": "Miguel",
+        "apellidos": "Gómez Fernández",
+        "telefono": "555111222",
+        "direccion": {
+          "calle": "Calle Este 123",
+          "ciudad": "Ciudad Este",
+          "codigo_postal": "54321",
+          "provincia": "Provincia Este"
+        },
+        "correo_electronico": "miguelgomez@example.com",
+        "fecha_inclusion": "2020-07-05"
+      },
+      {
+        "nombre": "Sofía",
+        "apellidos": "Ruiz Martínez",
+        "telefono": "666222333",
+        "direccion": {
+          "calle": "Calle Oeste 456",
+          "ciudad": "Ciudad Oeste",
+          "codigo_postal": "98765",
+          "provincia": "Provincia Oeste"
+        },
+        "correo_electronico": "sofiaruiz@example.com",
+        "fecha_inclusion": "2020-10-10"
+      },
+      {
+        "nombre": "Pablo",
+        "apellidos": "Hernández Rodríguez",
+        "telefono": "777333111",
+        "direccion": {
+          "calle": "Calle Sur 789",
+          "ciudad": "Ciudad Sur",
+          "codigo_postal": "01234",
+          "provincia": "Provincia Sur"
+        },
+        "correo_electronico": "pablohernandez@example.com",
+        "fecha_inclusion": "2020-10-01"
+      },
+      {
+        "nombre": "Lucía",
+        "apellidos": "Díaz Gómez",
+        "telefono": "888444222",
+        "direccion": {
+          "calle": "Calle Norte 567",
+          "ciudad": "Ciudad Norte",
+          "codigo_postal": "34567",
+          "provincia": "Provincia Norte"
+        },
+        "correo_electronico": "luciadiaz@example.com",
+        "fecha_inclusion": "2021-02-15"
+      },
+      {
+        "nombre": "Diego",
+        "apellidos": "García Sánchez",
+        "telefono": "999777555",
+        "direccion": {
+          "calle": "Calle Central 012",
+          "ciudad": "Ciudad Central",
+          "codigo_postal": "67890",
+          "provincia": "Provincia Central"
+        },
+        "correo_electronico": "diegogarcia@example.com",
+        "fecha_inclusion": "2021-02-01"
+      },
+      {
+        "nombre": "Valentina",
+        "apellidos": "Martínez López",
+        "telefono": "111555888",
+        "direccion": {
+          "calle": "Calle Posterior 789",
+          "ciudad": "Ciudad Posterior",
+          "codigo_postal": "45678",
+          "provincia": "Provincia Posterior"
+        },
+        "correo_electronico": "valentinamartinez@example.com",
+        "fecha_inclusion": "2021-04-10"
+      },
+      {
+        "nombre": "Alejandro",
+        "apellidos": "Pérez García",
+        "telefono": "222888444",
+        "direccion": {
+          "calle": "Calle Este 345",
+          "ciudad": "Ciudad Este",
+          "codigo_postal": "89012",
+          "provincia": "Provincia Este"
+        },
+        "correo_electronico": "alejandroperez@example.com",
+        "fecha_inclusion": "2021-05-05"
+      },
+      {
+        "nombre": "Paula",
+        "apellidos": "Rodríguez Martínez",
+        "telefono": "333999111",
+        "direccion": {
+          "calle": "Calle Oeste 678",
+          "ciudad": "Ciudad Oeste",
+          "codigo_postal": "34567",
+          "provincia": "Provincia Este"
+        },
+        "correo_electronico": "paularodriguez@example.com",
+        "fecha_inclusion": "2021-04-05"
+        },
+
+        {
+          "nombre": "Jorge",
+          "apellidos": "González Rodríguez",
+          "telefono": "123456789",
+          "direccion": {
+            "calle": "Calle Principal 123",
+            "ciudad": "Ciudad Principal",
+            "codigo_postal": "12345",
+            "provincia": "Provincia Principal"
+          },
+          "correo_electronico": "jorgegonzalez@example.com",
+          "fecha_inclusion": "2021-07-05"
+        },
+
+        {
+          "nombre": "Nuria",
+          "apellidos": "Sánchez Martínez",
+          "telefono": "987654321",
+          "direccion": {
+            "calle": "Avenida Central 456",
+            "ciudad": "Ciudad Central",
+            "codigo_postal": "54321",
+            "provincia": "Provincia Central"
+          },
+          "correo_electronico": "nuriasanchez@example.com",
+          "fecha_inclusion": "2021-11-15"
+        },
+        
+        {
+          "nombre": "Pedro",
+          "apellidos": "Martínez Gutiérrez",
+          "telefono": "456123789",
+          "direccion": {
+            "calle": "Calle Libertad 789",
+            "ciudad": "Ciudad Libertad",
+            "codigo_postal": "67890",
+            "provincia": "Provincia Libertad"
+          },
+          "correo_electronico": "pedromartinez@example.com",
+          "fecha_inclusion": "2021-12-25"
+        }
+        
+      
+      
+    ]
+  }
+  

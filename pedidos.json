@@ -1,0 +1,85 @@
+{
+    "pedidos": [
+      {
+        "numero_factura": "123ABC",
+        "producto": "Camiseta",
+        "Trimestre": "Q1"
+      },
+      {
+        "numero_factura": "456DEF",
+        "producto": "Pantalón",
+        "Trimestre": "Q1"
+      },
+      {
+        "numero_factura": "789GHI",
+        "producto": "Zapatos",
+        "Trimestre": "Q2"
+      },
+      {
+        "numero_factura": "987JKL",
+        "producto": "Bufanda",
+        "Trimestre": "Q2"
+      },
+      {
+        "numero_factura": "012MNO",
+        "producto": "Gorra",
+        "Trimestre": "Q3"
+      },
+      {
+        "numero_factura": "345PQR",
+        "producto": "Bufanda",
+        "Trimestre": "Q3"
+      },
+      {
+        "numero_factura": "678STU",
+        "producto": "Jersey",
+        "Trimestre": "Q4"
+      },
+      {
+        "numero_factura": "890UVW",
+        "producto": "Pantalón",
+        "Trimestre": "Q4"
+      },
+      {
+        "numero_factura": "901WXY",
+        "producto": "Zapatos",
+        "Trimestre": "Q5"
+      },
+      {
+        "numero_factura": "234YZA",
+        "producto": "Gorra",
+        "Trimestre": "Q5"
+      },
+      {
+        "numero_factura": "345ABC",
+        "producto": "Camiseta",
+        "Trimestre": "Q6"
+      },
+      {
+        "numero_factura": "678DEF",
+        "producto": "Jersey",
+        "Trimestre": "Q6"
+      },
+      {
+        "numero_factura": "901GHI",
+        "producto": "Bufanda",
+        "Trimestre": "Q7"
+      },
+      {
+        "numero_factura": "567JKL",
+        "producto": "Pantalón",
+        "Trimestre": "Q7"
+      },
+      {
+        "numero_factura": "234MNO",
+        "producto": "Camisa",
+        "Trimestre": "Q8"
+      },
+      {
+        "numero_factura": "567PQR",
+        "producto": "Jersey",
+        "Trimestre": "Q8"
+      }
+    ]
+}
+ 
